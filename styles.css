@@ -1,0 +1,153 @@
+body{
+  color: white;
+}
+.navbar-brand{
+  color: white;
+  font-weight: bold;
+  font-family: serif;
+  font-size: 1.7vw;
+  padding-left:2%;
+}
+a:hover{
+  color: #e84a5f;
+}
+.nav-link{
+  color: white;
+  font-size: 1.2vw;
+  padding-right: 2%;
+  font-weight: bold;
+  font-family: serif;
+}
+.car-img{
+  width:100%;
+  height: 100%;
+}
+.navbar-toggler{
+  border-color: #e84a5f;
+  background-color: white;
+  opacity: 0.5;
+}
+.navbar-toggler-icon{
+  height: 0.1rem;
+  width:0.2rem;
+}
+p{
+  font-size: 3vw;
+  font-family: 'Parisienne', cursive;
+  line-height: 1;
+  text-align: center;
+  font-weight: bold;
+}
+h3,h4,h5{
+  text-align: center;
+  font-family: serif;
+  font-weight: bold;
+}
+h6{
+  text-align: center;
+  font-size: 1.3vw;
+}
+ .writing{
+  font-size: 1.6vw;
+  font-weight: normal;
+  font-family: serif;
+  font-style: italic;
+  text-align: center;
+  margin: auto;
+  width: 45%;
+}
+.artisan,.savory,.sweet,.quality,.phn,.mail,.address,.ac,.pd,.pde,.le{
+  text-align: center;
+  width:25%;
+  padding: 5%;
+}
+.home-img{
+  border-radius: 100%;
+  height: 10vw;
+  width: 10vw;
+}
+.index{
+  margin-top: 10%;
+  background-image: url("images/1.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+}
+.contact{
+  margin-top: 10%;
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+}
+.blog{
+  margin-top: 10%;
+  background-image: url("images/4.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+}
+.home{
+  margin-top: 10%;
+  background-image: url("images/2.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+}
+.about{
+  margin-top: 10%;
+  background-image: url("images/3.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+}
+.phone,.email{
+  color: white;
+}
+.phone:hover,.email:hover{
+  color: #e84a5f;
+  text-decoration: none;
+}
+.number{
+  font-style: italic;
+  font-family: 'Parisienne', cursive;
+  font-size: 2.5vw;
+  font-weight: normal;
+}
+.footer{
+  background: #f76a8c;
+  opacity: 0.5;
+  margin-top: 5%;
+  margin-bottom: 0;
+  padding: 5%;
+
+}
+.header{
+    background: #2f2519;
+    opacity: 0.5;
+  }
+.head{
+  background: #f76a8c;
+  opacity: 0.5;
+}
+.package{
+  background: #092532;
+  opacity: 0.7;
+  margin-top: 5%;
+  margin-bottom: 0;
+}
+.test{
+    background: #b7472a;
+    opacity: 0.5;
+    padding: 5%;
+  }
